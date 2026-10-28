@@ -10,7 +10,6 @@
 |---|---|
 | Windows (установщик) | `MC-Launcher-Setup-X.Y.Z.exe` |
 | Windows (без установки) | `MC-Launcher-Portable-X.Y.Z.exe` |
-| macOS | `.dmg` |
 | Linux | `.AppImage` |
 
 ## Установка на Windows
